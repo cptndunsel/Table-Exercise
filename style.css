@@ -1,0 +1,21 @@
+h2 {
+text-align: center;
+}
+table {
+    width: 100%;
+    margin-bottom: 20px;
+    border-top: 1em solid gray;
+    border-left: 1em solid gray;
+    border-right: 1em solid black;
+    border-bottom: 1em solid black;
+    padding: 5px;
+}
+th, td {
+    text-align: left;
+    padding: 50px;
+    border: 1px solid black;
+}
+body {
+position: absolute;
+transform: translate(65%,0%);
+}
